@@ -1,0 +1,3 @@
+[submodule "rsync"]
+	path = rsync
+	url = git://git.samba.org/rsync.git
